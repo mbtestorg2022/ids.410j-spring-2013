@@ -59,12 +59,57 @@ Readings will be posted on the course website and should be completed before cla
 {{< anchor "grading" >}}{{< /anchor >}}Grading
 ----------------------------------------------
 
-| ACTIVITES | PERCENTAGES |
-| --- | --- |
-| Problem Sets (3 total, 10% each) | 30 |
-| Policy Memo (30% memo, 10% presentation) | 40 |
-| Class Case Study (15% briefing and presentation, 5% comments on another presentation) | 20 |
-| Participation, including online quizzes (1% each) | 10 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Sets (3 total, 10% each)
+{{< tdclose >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Policy Memo (30% memo, 10% presentation)
+{{< tdclose >}}
+{{< tdopen >}}
+40
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Case Study (15% briefing and presentation, 5% comments on another presentation)
+{{< tdclose >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participation, including online quizzes (1% each)
+{{< tdclose >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 There will be some opportunities for extra credit.
 
