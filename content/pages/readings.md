@@ -162,7 +162,7 @@ Guest Lecturer: Jarrod Goentzel, [MIT Humanitarian Response Lab](http://humanita
 {{< tdopen >}}
 
 
-Darcy, James, and C. Hofmann. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["According to Need?: Needs Assessment and Decision-Making in the Humanitarian Sector." (PDF)](https://www.odi.org/sites/odi.org.uk/files/odi-assets/publications-opinion-files/285.pdf) _Humanitarian Policy Group Report_ 15 (2003): 5.
+Darcy, James, and C. Hofmann. ["According to Need?: Needs Assessment and Decision-Making in the Humanitarian Sector." (PDF)](https://www.odi.org/sites/odi.org.uk/files/odi-assets/publications-opinion-files/285.pdf) _Humanitarian Policy Group Report_ 15 (2003): 5.
 
 *   Chapter 3: The practice of needs assessment
 *   Optional: Chapter 1: Introduction and background
@@ -235,18 +235,18 @@ Guest Lecturer: Stephen Zoepf, [MIT Sloan Auto Lab](http://web.mit.edu/sloan-aut
 
 ### Material Specific to Corporate Average Fuel Economy Standards
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Energy Policy and Conservation Act (PDF)](https://www.govtrack.us/congress/bills/94/s622/text) (1975).  
+[Energy Policy and Conservation Act (PDF)](https://www.govtrack.us/congress/bills/94/s622/text) (1975).  
 Suggest skimming sections 32902(a), 32902(b), 32902(c), and 32902(f).
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Energy Independence and Security Act  (PDF)](http://www.gpo.gov/fdsys/pkg/BILLS-110hr6enr/pdf/BILLS-110hr6enr.pdf) (2007).  
+[Energy Independence and Security Act  (PDF)](http://www.gpo.gov/fdsys/pkg/BILLS-110hr6enr/pdf/BILLS-110hr6enr.pdf) (2007).  
 Suggest skimming Title I, Subtitle A, and Section 102(a) (on pp. 7–9 of pdf).
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Corporate Average Fuel Economy for MY 2012-MY 2016 Passenger Cars and Light Trucks, Final Regulatory Analysis, NHTSA (PDF - 2.5MB)](http://www.nhtsa.gov/DOT/NHTSA/Rulemaking/Rules/Associated Files/MY2012-2016_CAFE_PRIA.pdf). August 2009.  
+[Corporate Average Fuel Economy for MY 2012-MY 2016 Passenger Cars and Light Trucks, Final Regulatory Analysis, NHTSA (PDF - 2.5MB)](http://www.nhtsa.gov/DOT/NHTSA/Rulemaking/Rules/Associated Files/MY2012-2016_CAFE_PRIA.pdf). August 2009.  
 Suggest reading Executive Summary and skimming pp. 108–17, 134–9, 161–72, 285–90, 309–12, 358–9, 403–17, 555–8, 563–7, 578, and 606–7.
 
 ### Material Establishing General Principles for Regulatory Impact Analysis
 
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"Regulatory Impact Analysis: A Primer." (PDF)](https://www.reginfo.gov/public/jsp/Utilities/circular-a-4_regulatory-impact-analysis-a-primer.pdf) Office of Management and Budget.  
+["Regulatory Impact Analysis: A Primer." (PDF)](https://www.reginfo.gov/public/jsp/Utilities/circular-a-4_regulatory-impact-analysis-a-primer.pdf) Office of Management and Budget.  
 Suggest skimming pp. 9–15.
 
 "[Circular A-4](https://obamawhitehouse.archives.gov/omb/circulars_a004_a-4/)." Office of Management and Budget.
@@ -260,7 +260,7 @@ Suggest skimming these sections:
 *   Market-Oriented Approaches Rather than Direct Controls
 *   Developing Benefit and Cost Estimates
 
-Clinton, Bill. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Regulatory Planning and Review." (PDF)](http://www.archives.gov/federal-register/executive-orders/pdf/12866.pdf ) Executive Order 12866, 30 September 1993.  
+Clinton, Bill. ["Regulatory Planning and Review." (PDF)](http://www.archives.gov/federal-register/executive-orders/pdf/12866.pdf ) Executive Order 12866, 30 September 1993.  
 Suggest skimming Section 1 (pp. 1–2).
 
 
@@ -443,7 +443,7 @@ Risbey, James S., and MilindKandlikar. "[Expressions of Likelihood and Confidenc
 
 vanAsselt, Marjolein B. A., and Jan Rotmans. "[Uncertainty in Integrated Assessment Modelling](http://dx.doi.org/10.1023/A:1015783803445)." _Climatic Change_ 54, no. 1–2 (2002): 75–105.
 
-Thunnissen, Daniel P. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Uncertainty Classification for the Design and Development of Complex Systems." (PDF)](http://cmapspublic3.ihmc.us/rid=1MHBNWQ8R-244KMJK-16CW/Uncertainty%20Classification%20for%20the%20Design%20and%20Development%20of%20Complex%20Systems.pdf.pdf) In _3rd Annual Predictive Methods Conference_. 2003.
+Thunnissen, Daniel P. ["Uncertainty Classification for the Design and Development of Complex Systems." (PDF)](http://cmapspublic3.ihmc.us/rid=1MHBNWQ8R-244KMJK-16CW/Uncertainty%20Classification%20for%20the%20Design%20and%20Development%20of%20Complex%20Systems.pdf.pdf) In _3rd Annual Predictive Methods Conference_. 2003.
 
 
 {{< tdclose >}}
@@ -459,7 +459,7 @@ Uncertainty Analysis II / Model-Building Introduction
 {{< tdopen >}}
 
 
-Montalbo, Trisha, Jeremy Gregory, et al. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"Life Cycle Assessment of Hand Drying Systems." (PDF)](https://www.silvaporto.com.br/wp-content/uploads/2017/09/ACV_SECADOR_MIT.pdf) _Materials Systems Laboratory, Massachusetts Institute of Technology_ (2011).
+Montalbo, Trisha, Jeremy Gregory, et al. ["Life Cycle Assessment of Hand Drying Systems." (PDF)](https://www.silvaporto.com.br/wp-content/uploads/2017/09/ACV_SECADOR_MIT.pdf) _Materials Systems Laboratory, Massachusetts Institute of Technology_ (2011).
 
 Björklund, Anna E. "[Survey of Approaches to Improve Reliability in LCA](http://dx.doi.org/10.1007/BF02978849)." _The International Journal of Life Cycle Assessment_ 7, no. 2 (2002): 64–72.
 
@@ -495,7 +495,7 @@ Wynne, Brian. "[Public Uptake of Science: A Case for Institutional Reflexivity]
 
 Mooney, Chris, and Sheril Kirshenbaum. "Rethinking the Problem of Scientific Illiteracy." Chapter 2 in _Unscientific America: How Scientific Illiteracy Threatens our Future_. Basic Books, 2010. ISBN: 9780465019175. \[Preview with [Google Books](http://books.google.com/books?id=0F-wUPouAZsC&pg=PA19=onepage)\]
 
-Sclove, Richard. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Reinventing Technology Assessment: A 21st Century Model." (PDF)](http://www.loka.org/Documents/ReinventingTechnologyAssessment1.pdf) Report, Woodrow Wilson International Center for Scholars, April 2010.
+Sclove, Richard. ["Reinventing Technology Assessment: A 21st Century Model." (PDF)](http://www.loka.org/Documents/ReinventingTechnologyAssessment1.pdf) Report, Woodrow Wilson International Center for Scholars, April 2010.
 
 Brugha, Ruairi, and Zsuzsa Varvasovszky. "[Stakeholder Analysis: A Review](http://dx.doi.org/10.1093/heapol/15.3.239)." _Health Policy and Planning_ 15, no. 3 (2000): 239–46.
 

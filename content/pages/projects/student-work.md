@@ -38,7 +38,7 @@ READINGS
 {{< tdopen >}}
 
 
-Green, Lawrence L., Steve R. Blattnig, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["An Uncertainty Structure Matrix for Models and Simulations." (PDF)](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20080015748.pdf) _American Institute of Aeronautics and Astronautics_ (2008).
+Green, Lawrence L., Steve R. Blattnig, et al. ["An Uncertainty Structure Matrix for Models and Simulations." (PDF)](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20080015748.pdf) _American Institute of Aeronautics and Astronautics_ (2008).
 
 Smith, Marcia S. ["NASA's Space Shuttle Columbia: Synopsis of the Report of the Columbia Accident Investigation Board." (PDF)](http://history.nasa.gov/columbia/Troxell/Columbia Web Site/Documents/Congress/CRS Summary of CAIB Report.pdf) _CRS Report for Congress_ (2003).
 
@@ -94,11 +94,11 @@ Woodford, Michael. "[Convergence in Macroeconomics: Elements of the New Synthesi
 
 McNutt, Marcia K., Steven Chu, et al. "[Applications of Science and Engineering to Quantify and Control the Deepwater Horizon Oil Spill](http://dx.doi.org/10.1073/pnas.1214389109)." _Proceedings of the National Academy of Sciences_ 109, no. 50 (2012): 20222–8.
 
-National Commission on the BP Deepwater Horizon Oil Spill and Offshore Drilling. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Amount and Fate of the Oil. Staff Working Paper No. 3." (PDF)](http://astro.berkeley.edu/~echiang/bp/WorkingPaper.pdf) Originally Released October 6, 2010. Updated January 11, 2011. (Document in the public domain.)
+National Commission on the BP Deepwater Horizon Oil Spill and Offshore Drilling. ["The Amount and Fate of the Oil. Staff Working Paper No. 3." (PDF)](http://astro.berkeley.edu/~echiang/bp/WorkingPaper.pdf) Originally Released October 6, 2010. Updated January 11, 2011. (Document in the public domain.)
 
 Guardian research. "[BP Oil Spill Timeline](http://www.theguardian.com/environment/2010/jun/29/bp-oil-spill-timeline-deepwater-horizon)," _The Guardian_, 22 July, 2010.
 
-National Commission on the BP Deepwater Horizon Oil Spill and Offshore Drilling, Final Report, Chapter 5: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Response and Containment". (PDF - 3.8MB)](http://cybercemetery.unt.edu/archive/oilspill/20121211010142/http://www.oilspillcommission.gov/sites/default/files/documents/FinalReportChapter5.pdf) 11 January 2011. (Document in the public domain.)
+National Commission on the BP Deepwater Horizon Oil Spill and Offshore Drilling, Final Report, Chapter 5: ["Response and Containment". (PDF - 3.8MB)](http://cybercemetery.unt.edu/archive/oilspill/20121211010142/http://www.oilspillcommission.gov/sites/default/files/documents/FinalReportChapter5.pdf) 11 January 2011. (Document in the public domain.)
 
 
 {{< tdclose >}}

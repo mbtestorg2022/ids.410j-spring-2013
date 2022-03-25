@@ -73,7 +73,7 @@ Topic: System Modeling
 
 [Additional information on endosulfan](http://chm.pops.int/Portals/0/docs/from_old_website/poprc/documents/request/request_AnnexE_2009/UNEP-POPS-POPRC.4-INF-14.English.pdf)
 
-Raychaudhuri, Samik. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Introduction to Monte Carlo Simulation." (PDF)](http://www.informs-sim.org/wsc08papers/012.pdf) In _Simulation Conference, 2008. WSC 2008. Winter_, pp. 91-100. IEEE, 2008.
+Raychaudhuri, Samik. ["Introduction to Monte Carlo Simulation." (PDF)](http://www.informs-sim.org/wsc08papers/012.pdf) In _Simulation Conference, 2008. WSC 2008. Winter_, pp. 91-100. IEEE, 2008.
 
 Cetin, Banu, Serdar Ozer, et al. "[Determination of Henry's Law Constants of Organochlorine Pesticides in Deionized and Saline Water as a Function of Temperature](http://dx.doi.org/10.1016/j.atmosenv.2006.04.009)." _Atmospheric Environment_ 40, no. 24 (2006): 4538–46.
 
@@ -105,7 +105,7 @@ The one concession that you should make for this being a course assignment and n
 
 This memo from [Bob Behn](https://www.hks.harvard.edu/faculty/robert-behn), a Lecturer in Public Policy at Harvard Kennedy School has useful information about memo writing:
 
-*   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Craft of Memo Writing (PDF)](https://shorensteincenter.org/wp-content/uploads/2012/07/Behn-Craft-of-Memo-Writing-2013-3rev8_26_13.pdf) 
+*   [The Craft of Memo Writing (PDF)](https://shorensteincenter.org/wp-content/uploads/2012/07/Behn-Craft-of-Memo-Writing-2013-3rev8_26_13.pdf) 
 
 ### Presentation
 
