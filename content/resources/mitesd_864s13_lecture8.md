@@ -3,6 +3,7 @@ content_type: resource
 description: 'This file contains information regarding lecture 8. '
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/ids-410j-modeling-and-assessment-for-policy-spring-2013/5124bdeef9b2df6208ee15c8e0de758f_MITESD_864S13_lecture8.pdf
 file_type: application/pdf
+parent_uid: 561b78e6-8966-b179-8155-054920743a0e
 resourcetype: Document
 title: 'ESD.864 Modeling and Assessment for Policy: Lecture 8: IntegraLng Models and
   Policy making'

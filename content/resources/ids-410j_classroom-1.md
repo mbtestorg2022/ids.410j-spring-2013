@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: acf918f1-d791-9387-0a59-9623cefee4bc
 resourcetype: Image
 title: IDS-410J_classroom-1.jpg
 uid: 8c2e3e19-13a0-1b93-72e0-303dc8ff2fa9

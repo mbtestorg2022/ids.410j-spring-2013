@@ -14,7 +14,7 @@ Prerequisites
 
 Some familiarity with concepts of science, technology and policy will be assumed in the class. The following are examples of classes that provide sufficient background:
 
-*   [_ESD.10 Introduction to Technology and Policy_](/courses/esd-10-introduction-to-technology-and-policy-fall-2006/)
+*   [_ESD.10 Introduction to Technology and Policy_](/courses/esd-10-introduction-to-technology-and-policy-fall-2006)
 *   [_IDS.055J Science, Technology, and Public Policy_](http://student.mit.edu/catalog/search.cgi?search=ids.055J&style=verbatim)
 
 For those who do not have this background, supplemental readings are available in the [Readings]({{< baseurl >}}/pages/readings) section.

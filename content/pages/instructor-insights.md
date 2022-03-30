@@ -33,7 +33,7 @@ Curriculum Information
 
 ### Prerequisites
 
-[_ESD.10 Introduction to Technology and Policy_](/courses/esd-10-introduction-to-technology-and-policy-fall-2006/) or permission of the instructor
+[_ESD.10 Introduction to Technology and Policy_](/courses/esd-10-introduction-to-technology-and-policy-fall-2006) or permission of the instructor
 
 ### Requirements Satisfied
 
